@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "pos.com.co",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "Pos",
+    "packageName": "pos.com.co",
+    "packageFolder": "pos/com/co",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDg2OGZiNTcwMDdmNmNmMzEyNmYxNjQ2Mjk3ZjA2NGZlZDNlZTQwYjljMWQxMzk4YjE4YTM3MGVmMDRhN2YzYmVhYTE3YzQ2OWRkN2NkZDI5MzZiN2U5ODEwMzQ3ZTEwMzVmMjQ2NjczOWY4ZDJjM2I0NjVlZWYzOTFjNjFlNjU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es", "en", "it"],
+    "blueprints": []
+  }
+}
